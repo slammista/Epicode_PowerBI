@@ -1,1 +1,1 @@
-https://app.powerbi.com/Redirect?action=OpenApp&appId=71d9736c-b510-46df-b610-556710bb4910&ctid=7098b27b-5303-4818-8e07-e4d6cc6d5120
+https://app.powerbi.com/Redirect?action=OpenReport&appId=71d9736c-b510-46df-b610-556710bb4910&reportObjectId=100fdbbd-ef2e-435d-96e7-badca7eec110&ctid=7098b27b-5303-4818-8e07-e4d6cc6d5120&reportPage=d8c23c6d1e05953811c0&pbi_source=appShareLink&portalSessionId=8027db4f-2fd1-4bb3-866f-86aaacae94e9
